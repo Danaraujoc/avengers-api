@@ -5,13 +5,13 @@ Desenvolvimento de uma API utilizando SpringBoot + Kotlin com o intuito de cadas
 ## Tecnologias / Frameworks / IDE
 
 - Intellij
-- SpringBoot 2.4.4
+- SpringBoot 3.3.4
 - Maven
 - Kotlin
 - SpringData JPA
 - PostgreSQL
 - Flyway
-- Java 8
+- Java 21
 - Heroku
 
 ## Criação do esqueleto do projeto
